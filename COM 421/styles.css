@@ -1,0 +1,125 @@
+html {
+background-color: lightblue;
+}
+
+body {
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+div#page {
+background-color: white;
+padding: 20px;
+min-height: 600px;
+}
+
+nav {
+position: absolute;
+margin-left: -175px;
+margin-top: 30px;
+width: 170px;
+font-family: Arial;
+}
+
+h1 {
+font-family: Arial;
+padding-bottom: 10px;
+}
+
+h2 {
+font-family: Garamond;
+font-size: 30px;
+padding-bottom: 5px;
+}
+
+h3 {
+font-family: Garamond;
+font-size: 22px;
+padding-bottom: 10px;
+}
+
+p {
+padding-bottom: 5px;
+font-family: Times and new roman;
+font-size: 18px;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+div#boxes{
+font-size: 1em;
+color: white;
+text-align: center;
+}
+
+.box1 {
+width: 900px;
+background-color: pink;
+margin: 10px 10px 10px 0px;
+padding: 10px;
+height: 100px;
+color: white;
+text-align: center;
+}
+
+.box2 {
+width: 900px;
+background-color: pink;
+margin: 10px 10px 10px 0px;
+padding: 10px;
+height: 100px;
+color: white;
+text-align: center;
+}
+
+.box3 {
+width: 900px;
+background-color: pink;
+margin: 10px 10px 10px 0px;
+padding: 10px;
+height: 100px;
+color: white;
+text-align: center;
+}
+
+.box4 {
+width: 900px;
+background-color: pink;
+margin: 10px 10px 10px 0px;
+padding: 10px;
+height: 100px;
+color: white;
+text-align: center;
+}
+
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: lightblue;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h4{
+    background-color: yellow;
+    padding: 20px;
+    border: 3px dashed blue;
+}
